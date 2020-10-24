@@ -8,7 +8,7 @@ Asignar las variables numericas aprobadas.
 Sean a = 4, b = 6, x = 8, y = 2, c = 5 cuando
 corra su programa.
 */
-#include "pch.h"
+
 #include <iostream>
 using namespace std;
 int a = 4, b = 6, x = 8, y = 2, c = 5,z;
