@@ -8,7 +8,7 @@ NO.CONTROL: 18212159
 No suponer que los numeros estan enlistados en los datos de
 una orden especial.Puede suponerse que no hay dos numeros iguales.
 */
-#include "pch.h"
+
 #include <iostream>
 using namespace std;
 int main() 
