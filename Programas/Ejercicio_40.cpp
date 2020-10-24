@@ -6,7 +6,7 @@ NO.CONTROL: 18212159
 /*
 40.-Una pulgada equivale a 2.5cm.,calcular el numero de cm en 32 pulgadas.
 */
-#include "pch.h"
+
 #include <iostream>
 using namespace std;
 double cm,in=32;
