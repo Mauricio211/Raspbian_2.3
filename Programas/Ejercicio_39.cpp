@@ -2,12 +2,12 @@
 INSTITUTO TECNOLOGICO DE TIJUANA
 CHAVEZ ARROYO MAURICIO
 NO.CONTROL: 18212159
-/*
+*/
 /*
 39.-Dados diez enteros, imprimir solo el mayor.
 No suponer que los numeros estan enlistados en los datos de
 una orden especial.Puede suponerse que no hay dos numeros iguales.
-/*
+*/
 #include "pch.h"
 #include <iostream>
 using namespace std;
