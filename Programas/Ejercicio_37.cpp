@@ -8,7 +8,7 @@ NO.CONTROL: 18212159
 Su programa calculara N,contando el numero de valores no nulos
 que precede a un cero final.
 */
-#include "pch.h"
+
 #include <iostream>
 using namespace std;
 int main() 
