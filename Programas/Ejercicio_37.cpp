@@ -2,12 +2,12 @@
 INSTITUTO TECNOLOGICO DE TIJUANA
 CHAVEZ ARROYO MAURICIO
 NO.CONTROL: 18212159
-/*
+*/
 /*
 37.-Encontrar el mayor numero entre N numeros no nulos.
 Su programa calculara N,contando el numero de valores no nulos
 que precede a un cero final.
-/*
+*/
 #include "pch.h"
 #include <iostream>
 using namespace std;
