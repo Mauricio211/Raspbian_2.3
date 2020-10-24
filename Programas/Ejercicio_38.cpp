@@ -7,7 +7,7 @@ NO.CONTROL: 18212159
 38.-Introducir 12 valores de A y 10 de B.Calcular la suma de 
 los valores A, la de los B,y la suma de los productos AB.
 */
-#include "pch.h"
+
 #include <iostream>
 using namespace std;
 int main()
